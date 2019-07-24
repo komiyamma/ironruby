@@ -1,0 +1,2 @@
+ironrubyのフォルダを削除
+ironruby_patch.zip展開し、その中身で入れ替え
