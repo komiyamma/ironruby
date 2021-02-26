@@ -1,2 +1,2 @@
-ironruby‚ÌƒtƒHƒ‹ƒ_‚ğíœ
-ironruby_patch.zip“WŠJ‚µA‚»‚Ì’†g‚Å“ü‚ê‘Ö‚¦
+ironruby.msiã§ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ãŸå¾Œã€
+ironruby_patch.zipå±•é–‹ã—ã€ãã®ä¸­èº«ã§å…¥ã‚Œæ›¿ãˆ
